@@ -1,3 +1,2 @@
-## SQL
-### SQL Query Test Practice
-#### report my study
+## Coding Test
+### Python, SQL Study
